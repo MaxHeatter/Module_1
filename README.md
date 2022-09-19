@@ -1,6 +1,8 @@
 # TrueAccord
 
-![](images/trueaccord.jpg)
+
+![](image/trueaccord.png)
+
 
 ## Overview and Origin
 
